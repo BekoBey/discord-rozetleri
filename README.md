@@ -7,6 +7,9 @@ Discord'daki tüm rozetleri içeren bir koleksiyon!
 
 | İsim | Rozet | Elde? | Kazanmak |
 | --- | --- | --- | --- |
+
+| İsim | Rozet | Elde? | Kazanmak |
+| --- | --- | --- | --- |
 Komutları Destekler | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA BOTLAR) | Bot'un bu rozeti kazanabilmesi için [uygulama komutlarını](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) kullanması gerekir. |
 Discord Personeli | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (SADECE Personel Hesabı) | Discord'da personel olmak. |
 Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Discord iş ortağı gereksinimlerini karşılayan ve bir ortaklık için kabul edilen bir sunucuya sahip olmak. |
