@@ -33,7 +33,7 @@ Yönetici topluluğunda aktif olmak rozeti garanti etmez
 Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi tarafından kullanılabilmektedir
 
 ## Sunucu Takviyesi Seviyeleri
-| Rozet Bilgi | Rozet | Kazanabilme |
+| Rozet Bilgi | Rozet | Kazanabilmek |
 | --- | --- | --- |
 **1 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" > | Bir Discord sunucusuna takviye yapın. |
 **2 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost2.svg" href="https://discord.com/assets/22f99ed6e34eaca48950254c70f8fe8d.svg" > | Bir Discord sunucusunu **2 ay boyunca** takviye yapmaya devam edin. |
