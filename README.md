@@ -19,9 +19,22 @@ Erken Doğrulanmış Bot Geliştiricisi | <img  src="/assets/discordbotdev.svg" 
 Aktif Geliştirici | <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | ✅ | 	En az 1 etkin uygulamaya (uygulama) sahip olmak. Uygulamanızın etkin olarak kabul edilmesi için son 30 gün içinde herhangi bir Genel Komutu yürütmüş olması gerekir.|
 Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Geçerli bir Discord Nitro veya Discord Nitro Basic aboneliğine [buradan](https://discord.com/nitro) sahip olmak. |
 Erken Dönem Destekçisi | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | 10 Ekim 2018 Çarşamba günü 7:20:00 PDT'den önce Discord'da başarılı bir Nitro işlemi yaptıysanız. |
-Discord Hata Avcısı (1. Seviye) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Discord Testers programındaki **"hata avcısı"** seviyesine ulaşın.*  |
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Discord Testers programındaki **"hata bilgini"** seviyesine ulaşın.*  |
+Discord Hata Avcısı | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Discord Testers programındaki **"hata avcısı"** seviyesine ulaşın.*  |
+Discord Hata Avcısı (Altın) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Discord Testers programındaki **"hata bilgini"** seviyesine ulaşın.*  |
 
 Yönetici topluluğunda aktif olmak rozeti garanti etmez
 
 Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi tarafından kullanılabilmektedir
+
+## Sunucu Takviyesi Seviyeleri
+| İsim | Rozet | Kazanmak |
+| --- | --- | --- |
+**1 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" > | Boost a discord server. |
+**2 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost2.svg" href="https://discord.com/assets/22f99ed6e34eaca48950254c70f8fe8d.svg" > | Boost a discord server for 2 months straight. |
+**3 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost3.svg" href="https://discord.com/assets/4a2618502278029ce88adeea179ed435.svg" > | Boost a discord server for 3 months straight. |
+**6 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost4.svg" href="https://discord.com/assets/fbafa6adb7c49a6a2c3822521ff2af2f.svg" > | Boost a discord server for 6 months straight. |
+**9 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost5.svg" href="https://discord.com/assets/0599f90e32c15b532647163edd72f70a.svg" > | Boost a discord server for 9 months straight. |
+Server boosting (1 Year)  | <img  src="/assets/boosts/discordboost6.svg" href="https://discord.com/assets/e07c08cdc72bcc78b69c76d2c7ceb344.svg" > | Boost a discord server for 1 year straight. |
+Server boosting (1 Year & 3 Months) | <img  src="/assets/boosts/discordboost7.svg" href="https://discord.com/assets/c7f26927db5e7806790f4e968038630a.svg" > | Boost a discord server for 1 year and 3 months straight. |
+Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Boost a discord server for 1 year and 6 months straight. |
+Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boost a discord server for 2 years straight. |
