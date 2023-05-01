@@ -22,6 +22,6 @@ Erken Dönem Destekçisi | <img  src="/assets/discordearlysupporter.svg" href="h
 Discord Hata Avcısı (1. Seviye) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Discord Testers programındaki **"hata avcısı"** seviyesine ulaşın.*  |
 Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Discord Testers programındaki **"hata bilgini"** seviyesine ulaşın.*  |
 
-\ Yönetici topluluğunda aktif olmak rozeti garanti etmez
+Yönetici topluluğunda aktif olmak rozeti garanti etmez
 
-\*\ Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi tarafından kullanılabilmektedir
+Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi tarafından kullanılabilmektedir
