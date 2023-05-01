@@ -5,14 +5,14 @@ Discord'daki tüm rozetleri içeren bir koleksiyon!
 
 ## Bot Rozetleri
 
-| Rozet Adı | Rozet | Uygunluk | Kazanabilmek |
+| Rozet Adı | Rozet | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- |
 Komutları Destekler | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA BOTLAR) | Bot'un bu rozeti kazanabilmesi için [uygulama komutlarını](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) kullanması gerekir. |
 AutoMod kullanıyor | <img  src="/assets/automod.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA BOTLAR) | Bot'un bu rozeti kazanabilmesi için **tüm sunucularda AutoMod'da en az 100 kurala sahip olması gerekir** [bilgi için](https://support-dev.discord.com/hc/en-us/articles/13847462843543-Introducing-the-AutoMod-Badge-) göz atın. |
 
 ## Genel Rozetler
 
-| Rozet Adı | Rozet | Uygunluk | Kazanabilmek |
+| Rozet Adı | Rozet | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- |
 Discord Personeli | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (SADECE Personel Hesabı) | Discord'da personel olmak. |
 Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Discord iş ortağı gereksinimlerini karşılayan ve bir ortaklık için kabul edilen bir sunucuya sahip olmak. |
@@ -33,7 +33,7 @@ Yönetici topluluğunda aktif olmak rozeti garanti etmez
 Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi tarafından kullanılabilmektedir
 
 ## Sunucu Takviyesi Seviyeleri
-| Rozet Bilgi | Rozet | Kazanabilmek |
+| Rozet Bilgi | Rozet | Elde Etmek |
 | --- | --- | --- |
 **1 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" > | Bir Discord sunucusuna takviye yapın. |
 **2 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost2.svg" href="https://discord.com/assets/22f99ed6e34eaca48950254c70f8fe8d.svg" > | Bir Discord sunucusunu **2 ay boyunca** takviye yapmaya devam edin. |
