@@ -8,7 +8,7 @@ Discord'daki tüm rozetleri içeren bir koleksiyon!
 | İsim | Rozet | Elde? | Kazanmak |
 | --- | --- | --- | --- |
 Komutları Destekler | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA BOTLAR) | Bot'un bu rozeti kazanabilmesi için [uygulama komutlarını](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) kullanması gerekir. |
-HypeSquad Etkinlikleri | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | Kullanıcı, Discord'u almak için özel etkinliklerde Discord'u temsil etmelidir. [Başvurular şu anda kapalı.](https://discord.com/hypesquad). |
+HypeSquad Etkinlikleri | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | Kullanıcı, Bu rozeti almak için özel etkinliklerde Discord'u temsil etmelidir. [Başvurular şu anda kapalı.](https://discord.com/hypesquad). |
 HypeSquad Güzelliği | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | HypeSquad [testine](https://discord.com/hypesquad) girmek. |
 HypeSquad Cesareti | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | HypeSquad [testine](https://discord.com/hypesquad) girmek. |
 HypeSquad Dengesi | <img  src="/assets/hypesquadbalance.svg" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" > | ✅ | HypeSquad [testine](https://discord.com/hypesquad) girmek. |
