@@ -29,12 +29,21 @@ Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi taraf�
 ## Sunucu Takviyesi Seviyeleri
 | İsim | Rozet | Kazanmak |
 | --- | --- | --- |
-**1 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" > | Boost a discord server. |
-**2 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost2.svg" href="https://discord.com/assets/22f99ed6e34eaca48950254c70f8fe8d.svg" > | Boost a discord server for 2 months straight. |
-**3 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost3.svg" href="https://discord.com/assets/4a2618502278029ce88adeea179ed435.svg" > | Boost a discord server for 3 months straight. |
-**6 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost4.svg" href="https://discord.com/assets/fbafa6adb7c49a6a2c3822521ff2af2f.svg" > | Boost a discord server for 6 months straight. |
-**9 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost5.svg" href="https://discord.com/assets/0599f90e32c15b532647163edd72f70a.svg" > | Boost a discord server for 9 months straight. |
-Server boosting (1 Year)  | <img  src="/assets/boosts/discordboost6.svg" href="https://discord.com/assets/e07c08cdc72bcc78b69c76d2c7ceb344.svg" > | Boost a discord server for 1 year straight. |
-Server boosting (1 Year & 3 Months) | <img  src="/assets/boosts/discordboost7.svg" href="https://discord.com/assets/c7f26927db5e7806790f4e968038630a.svg" > | Boost a discord server for 1 year and 3 months straight. |
-Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Boost a discord server for 1 year and 6 months straight. |
-Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boost a discord server for 2 years straight. |
+**1 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" > | Bir Discord sunucusuna takviye yapın. |
+**2 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost2.svg" href="https://discord.com/assets/22f99ed6e34eaca48950254c70f8fe8d.svg" > | Bir Discord sunucusunu **2 ay boyunca** takviye yapmaya devam edin. |
+**3 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost3.svg" href="https://discord.com/assets/4a2618502278029ce88adeea179ed435.svg" > | Bir Discord sunucusunu **3 ay boyunca** takviye yapmaya devam edin. |
+**6 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost4.svg" href="https://discord.com/assets/fbafa6adb7c49a6a2c3822521ff2af2f.svg" > | Bir Discord sunucusunu **6 ay boyunca** takviye yapmaya devam edin. |
+**9 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost5.svg" href="https://discord.com/assets/0599f90e32c15b532647163edd72f70a.svg" > | Bir Discord sunucusunu **9 ay boyunca** takviye yapmaya devam edin. |
+**12 Ay** boyunca Sunucu Takviyesi  | <img  src="/assets/boosts/discordboost6.svg" href="https://discord.com/assets/e07c08cdc72bcc78b69c76d2c7ceb344.svg" > | Bir Discord sunucusunu **12 ay boyunca** takviye yapmaya devam edin. |
+**15 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost7.svg" href="https://discord.com/assets/c7f26927db5e7806790f4e968038630a.svg" > | Bir Discord sunucusunu **15 ay boyunca** takviye yapmaya devam edin. |
+**18 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Bir Discord sunucusunu **18 ay boyunca** takviye yapmaya devam edin. |
+**24 Ay** boyunca Sunucu Takviyesi | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Bir Discord sunucusunu **24 ay boyunca** takviye yapmaya devam edin. |
+
+## Rozet Değiştirme Günlüğü
+
+Bazı rozetler zaman içinde değişti, işte tüm değişikliklerin bir listesi.
+
+| Rozet | Eskisi | Yenisi |
+| --- | --- | --- |
+| Erken Doğrulanmış Bot Geliştiricisi | Doğrulanmış Bot Geliştiricisi | **Erken** Doğrulanmış Bot Geliştiricisi |
+| Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
