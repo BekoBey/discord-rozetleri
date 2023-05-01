@@ -59,7 +59,7 @@ Bazı rozetler zaman içinde değişti, işte tüm değişikliklerin bir listesi
 
 ## Sunucu Rozetleri
 
-| Rozet Adı | Rozet | Uygunluk | Elde Etmek |
+| Adı | Rozet | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- |
-Discord Ortağı | <img  src="/assets/discordpartner-server.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bir [başvuru](https://discord.com/partners) göndererek alınır. (**Uygun olmanız gerekir**) |
-Doğrulandı | <img  src="/assets/verified-server.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bir [başvuru](https://discord.com/verification) göndererek alınır. (**Uygun olmanız gerekir**) |
+Discord Ortağı | <img  src="/assets/discordpartner-server.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZ SUNUCU) | Bir [başvuru](https://discord.com/partners) göndererek alınır. (**Uygun olmanız gerekir**) |
+Doğrulandı | <img  src="/assets/verified-server.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZ SUNUCU) | Bir [başvuru](https://discord.com/verification) göndererek alınır. (**Uygun olmanız gerekir**) |
