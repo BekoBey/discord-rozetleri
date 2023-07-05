@@ -27,6 +27,7 @@ Aktif Geliştirici | <img  src="/assets/activedeveloper.svg" href="https://disco
 Erken Doğrulanmış Bot Geliştiricisi | <img  src="/assets/discordbotdev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" > | ❌ | 7 Ekim 2020 tarihinden önce doğrulanmış bir discord botuna sahip olman gerekir. |
 Erken Dönem Destekçisi | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | 10 Ekim 2018 Çarşamba günü 7:20:00 PDT'den önce Discord'da başarılı bir Nitro işlemi yaptıysanız. |
 Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Geçerli bir Discord Nitro veya Discord Nitro Basic aboneliğine [buradan](https://discord.com/nitro) sahip olmak. |
+Önceden olarak biliniyordu | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" > | ✅ | 	Yeni kullanıcı adı sistemine geçtiklerinde kişilere verilir (Gizlenebilir) |
 
 Yönetici topluluğunda aktif olmak rozeti garanti etmez
 
