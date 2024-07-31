@@ -82,17 +82,17 @@ Doğrulandı | <img  src="/assets/verified-server.svg" href="https://discord.com
 
 | Bilgi | Rozet | Karanlık Tema | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- | --- |
-Dahili Çalışan (Personel) | <img  src="/assets/server/Staff.svg"> |  | ❌ (Normal kullanıcılar için değil) | *INTERNAL_EMPLOYEE_ONLY*  bayrağına sahip sunuculara verilir. |
-Discord Ortağı | <img  src="/assets/server/Partnered.svg"> |  | ❌ | Ortaklık statüsü olan Discord sunucularına verilir. |
-Doğrulanmış Sunucu | <img  src="/assets/server/Verified.svg"> |  | ⏸️ | Doğrulanmış Discord sunucularına verilir (Şu anda duraklatılmıştır) |
-Herkese Açık Sunucu (Takviye yapılmış) | <img  src="/assets/server/DiscoverableBoosted.svg"> |  | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
-Herkese Açık Sunucu | <img  src="/assets/server/DiscoverableDark.svg"> | <img  src="/assets/server/DiscoverableLight.svg"> | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
-Topluluk Sunucusu (Takviye yapılmış) | <img  src="/assets/server/CommunityBoosted.svg"> |  | ✅ | Topluluk özellikleri etkinleştirilmiş ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
-Topluluk Sunucusu | <img  src="/assets/server/CommunityDark.svg"> | <img  src="/assets/server/CommunityLight.svg"> | ✅ | Topluluk özellikleri etkinleştirilmiş sunuculara verilir. |
-Takviye Yapılmamış Sunucu (Seviye Yok) | <img  src="/assets/server/Boost0.svg"> |  | ✅ | Sadece 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
-Takviye Yapılmış Sunucu (Sv. 1) | <img  src="/assets/server/Boost1.svg"> |  | ✅ | 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
-Takviye Yapılmış Sunucu (Sv. 2) | <img  src="/assets/server/Boost2Dark.svg"> | <img  src="/assets/server/Boost2Light.svg"> | ✅ | 2 Sunucu Takviyesine sahip olan sunuculara verilir. |
-Takviye Yapılmış Sunucu (Sv. 3) | <img  src="/assets/server/Boost3Dark.svg"> | <img  src="/assets/server/Boost3Light.svg"> | ✅ | 3 Sunucu Takviyesine sahip olan sunuculara verilir. |
-Sunucu Sahibi | <img  src="/assets/server/Crown.svg"> |  | ✅ | Sunucu oluşturulduktan sonra sahibine verilmektedir. Yükseltilmiş bir role yönetici verilerek kaldırılabilir. |
-Burada yeniyim, merhaba deyin! | <img  src="/assets/server/NewHere.svg"> |  | ✅ | Topluluğun etkin olduğu bir sunucudaki yeni üyelere verilir. Rozet, katıldıktan sonra bir hafta boyunca kullanıcı adınızın yanında kalır. |
+Dahili Çalışan (Personel) | <img  src="/assets/server/Staff.svg" style="width: 52px;"> |  | ❌ (Normal kullanıcılar için değil) | *INTERNAL_EMPLOYEE_ONLY*  bayrağına sahip sunuculara verilir. |
+Discord Ortağı | <img  src="/assets/server/Partnered.svg" style="width: 52px;"> |  | ❌ | Ortaklık statüsü olan Discord sunucularına verilir. |
+Doğrulanmış Sunucu | <img  src="/assets/server/Verified.svg" style="width: 52px;"> |  | ⏸️ | Doğrulanmış Discord sunucularına verilir (Şu anda duraklatılmıştır) |
+Herkese Açık Sunucu (Takviye yapılmış) | <img  src="/assets/server/DiscoverableBoosted.svg" style="width: 52px;"> |  | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
+Herkese Açık Sunucu | <img  src="/assets/server/DiscoverableDark.svg" style="width: 52px;"> | <img  src="/assets/server/DiscoverableLight.svg"> | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
+Topluluk Sunucusu (Takviye yapılmış) | <img  src="/assets/server/CommunityBoosted.svg" style="width: 52px;"> |  | ✅ | Topluluk özellikleri etkinleştirilmiş ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
+Topluluk Sunucusu | <img  src="/assets/server/CommunityDark.svg" style="width: 52px;"> | <img  src="/assets/server/CommunityLight.svg" style="width: 52px;"> | ✅ | Topluluk özellikleri etkinleştirilmiş sunuculara verilir. |
+Takviye Yapılmamış Sunucu (Seviye Yok) | <img  src="/assets/server/Boost0.svg" style="width: 52px;"> |  | ✅ | Sadece 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Takviye Yapılmış Sunucu (Sv. 1) | <img  src="/assets/server/Boost1.svg" style="width: 52px;"> |  | ✅ | 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Takviye Yapılmış Sunucu (Sv. 2) | <img  src="/assets/server/Boost2Dark.svg" style="width: 52px;"> | <img  src="/assets/server/Boost2Light.svg" style="width: 52px;"> | ✅ | 2 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Takviye Yapılmış Sunucu (Sv. 3) | <img  src="/assets/server/Boost3Dark.svg" style="width: 52px;"> | <img  src="/assets/server/Boost3Light.svg" style="width: 52px;"> | ✅ | 3 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Sunucu Sahibi | <img  src="/assets/server/Crown.svg" style="width: 52px;"> |  | ✅ | Sunucu oluşturulduktan sonra sahibine verilmektedir. Yükseltilmiş bir role yönetici verilerek kaldırılabilir. |
+Burada yeniyim, merhaba deyin! | <img  src="/assets/server/NewHere.svg" style="width: 52px;"> |  | ✅ | Topluluğun etkin olduğu bir sunucudaki yeni üyelere verilir. Rozet, katıldıktan sonra bir hafta boyunca kullanıcı adınızın yanında kalır. |
 
