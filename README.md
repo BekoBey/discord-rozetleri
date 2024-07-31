@@ -71,7 +71,7 @@ Bazı rozetler zaman içinde değişti, işte tüm değişikliklerin bir listesi
 | HypeSquad Güzelliği | HypeSquad Brilliance | HypeSquad **Güzelliği** |
 | HypeSquad Dengesi | HypeSquad Balance | HypeSquad **Dengesi** |
 | Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
-| Moderatör Programları mezunu | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" ><br>Discord Onaylı Moderatör | <img src="/assets/discordmod.svg"><br>Moderatör Programları Mezunu |
+| Moderatör Programları Mezunu | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" ><br>Discord Onaylı Moderatör | <img src="/assets/discordmod.svg"><br>Moderatör Programları Mezunu |
 
 ## Sunucu Rozetleri
 
