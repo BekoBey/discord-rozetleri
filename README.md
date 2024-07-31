@@ -22,7 +22,7 @@ Bu uygulama ayrıcalıklı özelliklere sahip! | <img  src="/assets/premiumbot.p
 
 ## Genel Rozetler
 
-| Rozet Adı | Rozet | Uygunluk | Elde Etmek | Bayrak |
+| Rozet Adı | Rozet | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- |
 Discord Personeli | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (SADECE Personel Hesabı) | Discord'da personel olmak. |
 Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Discord iş ortağı gereksinimlerini karşılayan ve bir ortaklık için kabul edilen bir sunucuya sahip olmak. |
