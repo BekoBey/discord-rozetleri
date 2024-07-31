@@ -14,11 +14,11 @@ Discord'daki tüm rozetleri içeren bir koleksiyon!
 
 ## Bot Rozetleri
 
-| Rozet Adı | Rozet | Uygunluk | Elde Etmek |
-| --- | --- | --- | --- |
-Komutları Destekler | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA BOTLAR) | Bot'un bu rozeti kazanabilmesi için [uygulama komutlarını](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) kullanması gerekir. |
-AutoMod kullanıyor | <img  src="/assets/automod.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA BOTLAR) | Bot'un bu rozeti kazanabilmesi için **tüm sunucularda AutoMod'da en az 100 kurala sahip olması gerekir** [bilgi için](https://support-dev.discord.com/hc/en-us/articles/13847462843543-Introducing-the-AutoMod-Badge-) göz atın. |
-Bu uygulama ayrıcalıklı özelliklere sahip! | <img  src="/assets/premiumbot.png" href="/assets/premiumbot.png"> | ✅ (YALNIZCA BOTLAR) | Discord uygulama içi satın alma seçeneğini kullanarak premium satın alan sunucudaki premium botlara verilir. |
+| Rozet Adı | Rozet | Uygunluk | Elde Etmek | Bayrak |
+| --- | --- | --- | --- | --- |
+Komutları Destekler | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bot'un bu rozeti kazanabilmesi için [uygulama komutlarını](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) kullanması gerekir. | 8388608 (2^23) |
+AutoMod kullanıyor | <img  src="/assets/automod.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bot'un bu rozeti kazanabilmesi için **tüm sunucularda AutoMod'da en az 100 kurala sahip olması gerekir** [bilgi için](https://support-dev.discord.com/hc/en-us/articles/13847462843543-Introducing-the-AutoMod-Badge-) göz atın. | 	16777216 (2^24) |
+Bu uygulama ayrıcalıklı özelliklere sahip! | <img  src="/assets/premiumbot.png" href="/assets/premiumbot.png"> | ✅ | Discord uygulama içi satın alma seçeneğini kullanarak premium satın alan sunucudaki premium botlara verilir. | Bilinmiyor |
 
 ## Genel Rozetler
 
