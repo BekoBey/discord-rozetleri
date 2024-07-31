@@ -73,13 +73,6 @@ Bazı rozetler zaman içinde değişti, işte tüm değişikliklerin bir listesi
 | Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
 | Moderatör Programları mezunu | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" ><br>Discord Onaylı Moderatör | <img src="/assets/discordmod.svg"><br>Moderatör Programları Mezunu |
 
-## Özel Sunucu Rozetleri
-
-| Adı | Rozet | Uygunluk | Elde Etmek |
-| --- | --- | --- | --- |
-Discord Ortağı | <img  src="/assets/discordpartner-server.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA SUNUCU) | Bir [başvuru](https://discord.com/partners) göndererek alınır. (**Uygun olmanız gerekir**) |
-Doğrulandı | <img  src="/assets/verified-server.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (YALNIZCA SUNUCU) | Bir [başvuru](https://discord.com/verification) göndererek alınır. (**Uygun olmanız gerekir**) |
-
 ## Sunucu Rozetleri
 
 | Bilgi | Rozet | Karanlık Tema | Uygunluk | Elde Etmek |
