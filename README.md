@@ -28,7 +28,7 @@ Bir Görev Tamamlandı | <img  src="/assets/quest.png" href="https://cdn.discord
 Sınırlı bir süre için palyaço | <img  src="/assets/discordlootbox.svg"> | ❌ | Discord'un Nisan Şakası etkinliğinde bütün sürpriz kutularından ödüllerini al ve profil resmini kişiselleştirmek için özel bir çerçeve seç | (Bilinmiyor) |
 Önceden olarak biliniyordu | <img  src="/assets/username.png"> | ❌ | Yeni kullanıcı adı sistemine geçiş yaparken kişinin benzersiz bir kullanıcı adı etiketine sahip olması gerekmektedir, örneğin TAG#0000 (Gizlenebilir) | (Bilinmiyor) |
 Discord Personeli | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (SADECE Personel Hesabı) | Discord'da personel olmak. | 1 (2^0) |
-Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ❌ | Discord iş ortağı gereksinimlerini karşılayan ve bir ortaklık için kabul edilen bir sunucuya sahip olmak. | 2 (2^1) |
+Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ❌ | 5 Ekim 2023'ten önce discord iş ortağı gereksinimlerini karşılayan bir sunucuya sahip olmak ve ortaklığa kabul edilmek. | 2 (2^1) |
 Moderatör Programları Mezunu | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | Discord [moderatör akademisini](https://discord.com/moderation) geçmek ve yönetici topluluğunda aktif olmak.  ***Bu rozet artık alınamaz, Moderatör Programları Mezunu olarak eski bir rozet olarak emekliye ayrılmıştır.*** | 262144 (2^18) |
 HypeSquad Etkinlikleri | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | Kullanıcı, Bu rozeti almak için özel etkinliklerde Discord'u temsil etmelidir. [Başvurular şu anda kapalı.](https://discord.com/hypesquad) | 4 (2^2) |
 HypeSquad Cesareti | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | HypeSquad [testine](https://discord.com/hypesquad) girmek. | 64 (2^6) |
@@ -80,9 +80,19 @@ Doğrulandı | <img  src="/assets/verified-server.svg" href="https://discord.com
 
 ## Sunucu Rozetleri
 
-| Bilgi | Rozet | Durum | Etkin |
-| --- | --- | --- | --- |
-Topluluk Sunucusu | <img  src="/assets/server-badges/Community_Server.svg"> | Davet bağlantısı olanlar katılabilir. | Etkinleştirmek için [buraya](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) göz atabilirsin. |
-Topluluk Sunucusu | <img  src="/assets/server-badges/Community_Server_Boost.svg"> | Bu sunucuya herkes katılabilir. | Etkinleştirmek için [buraya](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) göz atabilirsin. |
-Topluluk Sunucusu | <img  src="/assets/server-badges/Community_Server_Public.svg"> | Davet bağlantısı olanlar katılabilir. | Etkinleştirmek için [buraya](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) göz atabilirsin. |
-Topluluk Sunucusu | <img  src="/assets/server-badges/Community_Server_Boost_Public.svg"> | Bu sunucuya herkes katılabilir. | Etkinleştirmek için [buraya](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server) göz atabilirsin. |
+| Bilgi | Rozet | Karanlık Tema | Uygunluk | Elde Etmek |
+| --- | --- | --- | --- | --- |
+Dahili Çalışan (Personel) | <img  src="/assets/server/Staff.svg"> | ❌ (Normal kullanıcılar için değil) | *INTERNAL_EMPLOYEE_ONLY*  bayrağına sahip sunuculara verilir. |
+Discord Ortağı | <img  src="/assets/sever/Partnered.svg"> | ❌ | Ortaklık statüsü olan Discord sunucularına verilir. |
+Doğrulanmış Sunucu | <img  src="/assets/server/Verified.svg"> | ⏸️ | Doğrulanmış Discord sunucularına verilir (Şu anda duraklatılmıştır) |
+Herkese Açık Sunucu (Takviye yapılmış) | <img  src="/assets/server/DiscoverableBoosted.svg"> | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
+Herkese Açık Sunucu | <img  src="/assets/server/DiscoverableDark.svg"> | <img  src="/assets/server/DiscoverableLight.svg"> | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
+Topluluk Sunucusu (Takviye yapılmış) | <img  src="/assets/server/CommunityBoosted.svg"> | ✅ | Topluluk özellikleri etkinleştirilmiş ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
+Topluluk Sunucusu | <img  src="/assets/server/CommunityDark.svg"> | <img  src="/assets/server/CommunityLight.svg"> | ✅ | Topluluk özellikleri etkinleştirilmiş sunuculara verilir. |
+Takviye Yapılmamış Sunucu (Seviye Yok) | <img  src="/assets/server/Boost0.svg"> | ✅ | Sadece 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Takviye Yapılmış Sunucu (Sv. 1) | <img  src="/assets/server/Boost1.svg"> | ✅ | 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Takviye Yapılmış Sunucu (Sv. 2) | <img  src="/assets/server/Boost2Dark.svg"> | <img  src="/assets/server/Boost2Light.svg"> | ✅ | 2 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Takviye Yapılmış Sunucu (Sv. 3) | <img  src="/assets/server/Boost3Dark.svg"> | <img  src="/assets/server/Boost3Light.svg"> | ✅ | 3 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Sunucu Sahibi | <img  src="/assets/server/Crown.svg"> | ✅ | Sunucu oluşturulduktan sonra sahibine verilmektedir. Yükseltilmiş bir role yönetici verilerek kaldırılabilir. |
+Burada yeniyim, merhaba deyin! | <img  src="/assets/server/NewHere.svg"> | ✅ | Topluluğun etkin olduğu bir sunucudaki yeni üyelere verilir. Rozet, katıldıktan sonra bir hafta boyunca kullanıcı adınızın yanında kalır. |
+
