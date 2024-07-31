@@ -22,8 +22,9 @@ Bu uygulama ayrıcalıklı özelliklere sahip! | <img  src="/assets/premiumbot.p
 
 ## Genel Rozetler
 
-| Rozet Adı | Rozet | Uygunluk | Elde Etmek |
+| Rozet Adı | Rozet | Uygunluk | Elde Etmek | Bayrak |
 | --- | --- | --- | --- |
+Bir Görev Tamamlandı | <img  src="/assets/quests.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png"> | ✅ | Hediye envanteri sekmesinden bir görev tamamlandığında | (Bilinmeyen) |
 Discord Personeli | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (SADECE Personel Hesabı) | Discord'da personel olmak. |
 Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Discord iş ortağı gereksinimlerini karşılayan ve bir ortaklık için kabul edilen bir sunucuya sahip olmak. |
 Moderatör Programları Mezunu | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | Discord [moderatör akademisini](https://discord.com/moderation) geçmek ve yönetici topluluğunda aktif olmak.  ***Bu rozet artık alınamaz, Moderatör Programları Mezunu olarak eski bir rozet olarak emekliye ayrılmıştır.*** |
