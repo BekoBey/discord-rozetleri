@@ -83,7 +83,7 @@ Doğrulandı | <img  src="/assets/verified-server.svg" href="https://discord.com
 | Bilgi | Rozet | Karanlık Tema | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- | --- |
 Dahili Çalışan (Personel) | <img  src="/assets/server/Staff.svg"> |  | ❌ (Normal kullanıcılar için değil) | *INTERNAL_EMPLOYEE_ONLY*  bayrağına sahip sunuculara verilir. |
-Discord Ortağı | <img  src="/assets/sever/Partnered.svg"> |  | ❌ | Ortaklık statüsü olan Discord sunucularına verilir. |
+Discord Ortağı | <img  src="/assets/server/Partnered.svg"> |  | ❌ | Ortaklık statüsü olan Discord sunucularına verilir. |
 Doğrulanmış Sunucu | <img  src="/assets/server/Verified.svg"> |  | ⏸️ | Doğrulanmış Discord sunucularına verilir (Şu anda duraklatılmıştır) |
 Herkese Açık Sunucu (Takviye yapılmış) | <img  src="/assets/server/DiscoverableBoosted.svg"> |  | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
 Herkese Açık Sunucu | <img  src="/assets/server/DiscoverableDark.svg"> | <img  src="/assets/server/DiscoverableLight.svg"> | ✅ | Keşfet kısmında yer alan ve en az 1 sunucu takviyesi bulunan sunuculara verilir. |
