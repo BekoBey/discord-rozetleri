@@ -96,3 +96,15 @@ Takviye Yapılmış Sunucu (Sv. 3) | <img width="52.7px" height="60px" src="/ass
 Sunucu Sahibi | <img width="52.7px" height="60px" src="/assets/server/Crown.svg"> |  | ✅ | Sunucu oluşturulduktan sonra sahibine verilmektedir. Yükseltilmiş bir role yönetici verilerek kaldırılabilir. |
 Burada yeniyim, merhaba deyin! | <img width="52.7px" height="60px" src="/assets/server/NewHere.svg"> |  | ✅ | Topluluğun etkin olduğu bir sunucudaki yeni üyelere verilir. Rozet, katıldıktan sonra bir hafta boyunca kullanıcı adınızın yanında kalır. |
 
+## Özel Rozetler
+
+| Bilgi | Rozet | Uygunluk | Elde Etmek |
+| --- | --- | --- | --- |
+Resmi | <img src="/assets/special/Official.svg"> | ❌ | Discord'un resmi sistemi veya otomatik moderasyon mesajları için ayrılmıştır. (Yeni) |
+Sistem | <img src="/assets/special/System.svg"> | ❌ | Discord sistemi veya otomatik moderasyon mesajları için ayrılmıştır. (Eski) |
+Sunucu | <img src="/assets/special/Server.svg"> | ✅ | Bir kanalı takip eden bir "webhook" tarafından ayrılmıştır. |
+Doğrulanmış Bot/Uygulama | <img src="/assets/special/VerifiedBot.svg"><br><img src="/assets/special/VerifiedApp.svg"> | ✅ | Doğrulanmış bir uygulama tarfından elde edilir. |
+Bot/Uygulama | <img src="/assets/special/Bot.svg"> <img src="/assets/special/App.svg"> | ✅ | Doğrulanmamış bir uygulama tarafından elde edilir. |
+Beta | <img src="/assets/special/Beta.svg"> | ❌ | Beta özellikler için ayrılmıştır (Ayrıca merkeze yerleştirilmemiştir) |
+Ai | <img src="/assets/special/LightAi.svg"> <img src="/assets/special/DarkAi.svg"> | ❌ | Yalnızca Clyde Ai botu için. |
+OY (Orijinal Yazar) | <img src="/assets/special/OriginalPoster.svg"> | ✅ | Bir forum gönderisinin orijinal göndericisine verilen. |
