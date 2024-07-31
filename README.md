@@ -108,3 +108,15 @@ Bot/Uygulama | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special
 Beta | <img src="/assets/special/Beta.svg"> | ❌ | Beta özellikler için ayrılmıştır (Ayrıca merkeze yerleştirilmemiştir) |
 Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Yalnızca Clyde Ai botu için. |
 OY (Orijinal Yazar) | <img src="/assets/special/OriginalPoster.svg"> | ✅ | Bir forum gönderisinin orijinal göndericisine verilen. |
+
+# Lonca Rozetleri
+
+Yeni klan etiketlerine aşağıdaki rozetler dahildir. Lonca sahipleri bunları özelleştirebilir ve loncalarına atayabilir. Toplam 21 tane var!
+
+| 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
+| <img src="/assets/guilds/16.svg" /> | <img src="/assets/guilds/15.svg" /> | <img src="/assets/guilds/14.svg" /> | <img src="/assets/guilds/13.svg" /> | <img src="/assets/guilds/12.svg" /> |
+| <img src="/assets/guilds/11.svg" /> | <img src="/assets/guilds/10.svg" /> | <img src="/assets/guilds/9.svg" /> | <img src="/assets/guilds/8.svg" /> | <img src="/assets/guilds/7.svg" /> |
+| <img src="/assets/guilds/6.svg" /> | <img src="/assets/guilds/5.svg" /> | <img src="/assets/guilds/4.svg" /> | <img src="/assets/guilds/3.svg" /> | <img src="/assets/guilds/2.svg" /> |
+| <img src="/assets/guilds/1.svg" /> | | | | |
