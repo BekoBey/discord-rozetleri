@@ -4,12 +4,14 @@ Tüm Discord rozetleri ve nasıl alınacağı!
 Discord'daki tüm rozetleri içeren bir koleksiyon!
 
 ## İçindekiler
+
 - [Bot Rozetleri](#bot-rozetleri)
 - [Genel Rozetler](#genel-rozetler)
 - [Sunucu Takviyesi Seviyeleri](#sunucu-takviyesi-seviyeleri)
-- [Rozet Değiştirme Günlüğü](#rozet-değiştirme-günlüğü)
-- [Özel Sunucu Rozetleri](#özel-sunucu-rozetleri)
 - [Sunucu Rozetleri](#sunucu-rozetleri)
+- [Özel Rozetler](#özel-rozetler)
+- - [Lonca Rozetleri](#lonca-rozetleri)
+- [Rozet Değiştirme Günlüğü](#rozet-değiştirme-günlüğü)
 
 
 ## Bot Rozetleri
