@@ -18,15 +18,15 @@ Discord'daki tüm rozetleri içeren bir koleksiyon!
 | --- | --- | --- | --- | --- |
 Komutları Destekler | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bot'un bu rozeti kazanabilmesi için [uygulama komutlarını](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) kullanması gerekir. | 8388608 (2^23) |
 AutoMod kullanıyor | <img  src="/assets/automod.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bot'un bu rozeti kazanabilmesi için **tüm sunucularda AutoMod'da en az 100 kurala sahip olması gerekir** [bilgi için](https://support-dev.discord.com/hc/en-us/articles/13847462843543-Introducing-the-AutoMod-Badge-) göz atın. | 	16777216 (2^24) |
-Bu uygulama ayrıcalıklı özelliklere sahip! | <img  src="/assets/premiumbot.png" href="/assets/premiumbot.png"> | ✅ | Discord uygulama içi satın alma seçeneğini kullanarak premium satın alan sunucudaki premium botlara verilir. | Bilinmiyor |
+Bu uygulama ayrıcalıklı özelliklere sahip! | <img  src="/assets/premiumbot.png" href="/assets/premiumbot.png"> | ✅ | Discord uygulama içi satın alma seçeneğini kullanarak premium satın alan sunucudaki premium botlara verilir. | (Bilinmiyor) |
 
 ## Genel Rozetler
 
 | Rozet Adı | Rozet | Uygunluk | Elde Etmek | Bayrak |
 | --- | --- | --- | --- | --- |
-Bir Görev Tamamlandı | <img  src="/assets/quest.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png"> | ✅ | Hediye envanteri sekmesinden bir görev tamamlandığında | (Bilinmeyen) |
-Sınırlı bir süre için palyaço | <img  src="/assets/discordlootbox.svg"> | ❌ | Discord'un Nisan Şakası etkinliğinde bütün sürpriz kutularından ödüllerini al ve profil resmini kişiselleştirmek için özel bir çerçeve seç | (Bilinmeyen) |
-Önceden olarak biliniyordu | <img  src="/assets/username.png"> | ❌ | Yeni kullanıcı adı sistemine geçiş yaparken kişinin benzersiz bir kullanıcı adı etiketine sahip olması gerekmektedir, örneğin TAG#0000 (Gizlenebilir) | (Bilinmeyen) |
+Bir Görev Tamamlandı | <img  src="/assets/quest.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png"> | ✅ | Hediye envanteri sekmesinden bir görev tamamlandığında | (Bilinmiyor) |
+Sınırlı bir süre için palyaço | <img  src="/assets/discordlootbox.svg"> | ❌ | Discord'un Nisan Şakası etkinliğinde bütün sürpriz kutularından ödüllerini al ve profil resmini kişiselleştirmek için özel bir çerçeve seç | (Bilinmiyor) |
+Önceden olarak biliniyordu | <img  src="/assets/username.png"> | ❌ | Yeni kullanıcı adı sistemine geçiş yaparken kişinin benzersiz bir kullanıcı adı etiketine sahip olması gerekmektedir, örneğin TAG#0000 (Gizlenebilir) | (Bilinmiyor) |
 Discord Personeli | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (SADECE Personel Hesabı) | Discord'da personel olmak. | 1 (2^0) |
 Ortaklık Programı'na Dahil Sunucu Sahibi | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Discord iş ortağı gereksinimlerini karşılayan ve bir ortaklık için kabul edilen bir sunucuya sahip olmak. | 2 (2^1) |
 Moderatör Programları Mezunu | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | Discord [moderatör akademisini](https://discord.com/moderation) geçmek ve yönetici topluluğunda aktif olmak.  ***Bu rozet artık alınamaz, Moderatör Programları Mezunu olarak eski bir rozet olarak emekliye ayrılmıştır.*** | 262144 (2^18) |
