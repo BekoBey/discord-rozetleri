@@ -88,6 +88,7 @@ Takviye Yapılmamış Sunucu (Seviye Yok) | <img width="52.7px" height="60px" sr
 Takviye Yapılmış Sunucu (Sv. 1) | <img width="52.7px" height="60px" src="/assets/server/Boost1.svg"> |  | ✅ | 1 Sunucu Takviyesine sahip olan sunuculara verilir. |
 Takviye Yapılmış Sunucu (Sv. 2) | <img width="52.7px" height="60px" src="/assets/server/Boost2Dark.svg"> | <img width="52.7px" height="60px" src="/assets/server/Boost2Light.svg"> | ✅ | 2 Sunucu Takviyesine sahip olan sunuculara verilir. |
 Takviye Yapılmış Sunucu (Sv. 3) | <img width="52.7px" height="60px" src="/assets/server/Boost3Dark.svg"> | <img width="52.7px" height="60px" src="/assets/server/Boost3Light.svg"> | ✅ | 3 Sunucu Takviyesine sahip olan sunuculara verilir. |
+Sunucuya Takviye Yapıyor | <img width="52.7px" height="60px" src="/assets/server/ServerBooster.svg"> |  | ✅ | Herhangi bir sunucuya takviye yaptığınızda, üye listesinde isminizin yanında parlak bir rozet belirir. |
 Sunucu Sahibi | <img width="52.7px" height="60px" src="/assets/server/Crown.svg"> |  | ✅ | Sunucu oluşturulduktan sonra sahibine verilmektedir. Yükseltilmiş bir role yönetici verilerek kaldırılabilir. |
 Burada yeniyim, merhaba deyin! | <img width="52.7px" height="60px" src="/assets/server/NewHere.svg"> |  | ✅ | Topluluğun etkin olduğu bir sunucudaki yeni üyelere verilir. Rozet, katıldıktan sonra bir hafta boyunca kullanıcı adınızın yanında kalır. |
 
