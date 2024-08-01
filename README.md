@@ -95,14 +95,14 @@ Burada yeniyim, merhaba deyin! | <img width="52.7px" height="60px" src="/assets/
 
 | Bilgi | Rozet | Uygunluk | Elde Etmek |
 | --- | --- | --- | --- |
-Resmi | <img src="/assets/special/Official.svg"> | ❌ | Discord'un resmi sistemi veya otomatik moderasyon mesajları için ayrılmıştır. (Yeni) |
-Sistem | <img src="/assets/special/System.svg"> | ❌ | Discord sistemi veya otomatik moderasyon mesajları için ayrılmıştır. (Eski) |
-Sunucu | <img src="/assets/special/Server.svg"> | ✅ | Bir kanalı takip eden bir "webhook" tarafından ayrılmıştır. |
-Doğrulanmış Bot/Uygulama | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/assets/special/VerifiedApp.svg" />| ✅ | Doğrulanmış bir uygulama tarafından elde edilir. |
-Bot/Uygulama | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" /> | ✅ | Doğrulanmamış bir uygulama tarafından elde edilir. |
+Resmi | <img src="/assets/special/Resmi.svg"> | ❌ | Discord'un resmi sistemi veya otomatik moderasyon mesajları için ayrılmıştır. (Yeni) |
+Sistem | <img src="/assets/special/Sistem.svg"> | ❌ | Discord sistemi veya otomatik moderasyon mesajları için ayrılmıştır. (Eski) |
+Sunucu | <img src="/assets/special/Sunucu.svg"> | ✅ | Bir kanalı takip eden bir "webhook" tarafından ayrılmıştır. |
+Doğrulanmış Bot/Uygulama | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/assets/special/DogrulanmisUygulama.svg" />| ✅ | Doğrulanmış bir uygulama tarafından elde edilir. |
+Bot/Uygulama | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/Uygulama.svg" /> | ✅ | Doğrulanmamış bir uygulama tarafından elde edilir. |
 Beta | <img src="/assets/special/Beta.svg"> | ❌ | Beta özellikler için ayrılmıştır (Ayrıca merkeze yerleştirilmemiştir) |
 Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Yalnızca Clyde Ai botu için. |
-OY (Orijinal Yazar) | <img src="/assets/special/OriginalPoster.svg"> | ✅ | Bir forum gönderisinin orijinal göndericisine verilen. |
+OY (Orijinal Yazar) | <img src="/assets/special/OrijinalYazar.svg"> | ✅ | Bir forum gönderisinin orijinal göndericisine verilen. |
 
 # Lonca Rozetleri
 
