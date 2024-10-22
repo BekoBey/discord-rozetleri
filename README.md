@@ -14,6 +14,22 @@ Discord'daki tüm rozetleri içeren bir koleksiyon!
 - [Rozet Değiştirme Günlüğü](#rozet-değiştirme-günlüğü)
 
 
+> [!NOTE]
+> Discord rozetleri, sunucuların ve kullanıcıların başarılarını ve etkileşimlerini gösterir. Rozetler, topluluk içinde tanınma sağlar.
+
+> [!TIP]
+> Rozetleri kazanmak için etkinliklere ve görevlerde aktif olarak katılmak önemlidir. Böylece daha fazla rozet kazanma şansınız olur.
+
+> [!IMPORTANT]
+> Bazı rozetler yalnızca belirli sürelerde veya özel etkinliklerde kazanılabilir, bu nedenle bu fırsatları kaçırmamaya dikkat edin.
+
+> [!WARNING]
+> Rozetlerin bazıları sınırlı sayıda ve belirli koşullar altında verilmektedir. Bu nedenle, gereken şartları yerine getirmeden başvurmamalısınız.
+
+> [!CAUTION]
+> Rozetler zamanla değişebilir veya güncellenebilir. En güncel bilgilere Discord'un resmi kaynaklarından ulaşmak önemlidir.
+
+
 ## Bot Rozetleri
 
 | Rozet Adı | Rozet | Uygunluk | Elde Etmek | Bayrak |
