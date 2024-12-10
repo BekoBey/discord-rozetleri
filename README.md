@@ -63,6 +63,19 @@ Yönetici topluluğunda aktif olmak rozeti garanti etmez
 
 Test kullanıcıları programı şu anda yalnızca belirli bir grup kişi tarafından kullanılabilmektedir
 
+## Nitro Abonelik Seviyeleri
+
+| Rozet Bilgi                | Rozet                                                                                                                    | Elde Etmek                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| Bronz (1 Ay)     | <img src="/assets/subscriptions/bronze.svg" href="https://discord.com/assets/e87725d75c6b138c5304.svg" alt="Bronz">     | 1 ay boyunca Nitro'ya abone olmak.               |
+| Gümüş (3 Ay)    | <img src="/assets/subscriptions/silver.svg" href="https://discord.com/assets/4ce1c754ee26bd52e389.svg" alt="Gümüş">     | 3 ay boyunca Nitro'ya abone olmak.              |
+| Altın (6 Ay)      | <img src="/assets/subscriptions/gold.svg" href="https://discord.com/assets/720abe4190804fc2065a.svg" alt="Altın">         | 6 ay boyunca Nitro'ya abone olmak.              |
+| Platin (12 Ay) | <img src="/assets/subscriptions/platinum.svg" href="https://discord.com/assets/db8451ff2b2e8bd5bc2d.svg" alt="Platin"> | 12 ay (1 yıl) boyunca Nitro'ya abone olmak.    |
+| Elmas (24 Ay)  | <img src="/assets/subscriptions/diamond.svg" href="https://discord.com/assets/9a0a4244e4eb0c0b56a6.svg" alt="Elmas">   | 24 ay (2 yıl) boyunca Nitro'ya abone olmak.   |
+| Zümrüt (36 Ay)  | <img src="/assets/subscriptions/emerald.svg" href="https://discord.com/assets/6cb0fb24803a803393cb.svg" alt="Zümrüt">   | 36 ay (3 yıl) boyunca Nitro'ya abone olmak.   |
+| Yakut (60 Ay)     | <img src="/assets/subscriptions/ruby.svg" href="https://discord.com/assets/5842cd38f99cecb8a729.svg" alt="Yakut">         | 60 ay (5 yıl) boyunca Nitro'ya abone olmak.   |
+| Ateş (72+ Ay)    | <img src="/assets/subscriptions/fire.svg" href="https://discord.com/assets/e116db39d3beeb4caeac.svg" alt="Ateş">         | 72+ ay (6+ yıl) boyunca Nitro'ya abone olmak. |
+
 ## Sunucu Takviyesi Seviyeleri
 | Rozet Bilgi | Rozet | Elde Etmek |
 | --- | --- | --- |
